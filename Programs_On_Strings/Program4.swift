@@ -1,3 +1,5 @@
+//You are given a string stored in the variable aString. Create new string named replacedString that contains the characters of the original string with all the occurrences of the character "e" replaced by "*".
+
 let aString = "Welcome to the world"
 var replacedString = ""
 

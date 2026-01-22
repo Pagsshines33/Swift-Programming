@@ -1,3 +1,5 @@
+//Given a string in English, create a tuple containing the number of vowels and consonants.
+
 let text = "hello world"
 let vowels = "aeiouAEIOU"
 
